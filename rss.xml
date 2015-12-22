@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Guido Neele]]></title>
+        <description><![CDATA[Guido Neele]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 20:19:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welkom op mijn blog!]]></title>
+            <description><![CDATA[<article><h1>Welkom op mijn blog!</h1><p>Welkom op mijn persoonlijke blog. Het is de bedoeling dat ik hier regelmatig berichten post over allerlei soorten onderwerpen, variërend van C# .NET, Angular JS, MotoGP, Formule 1 tot misschien een beetje politiek (laten we hopen dat dit weinig zal zijn :-)). </p></article>]]></description>
+            <link>undefinedwelkom-op-mijn-blog/index.html</link>
+            <guid isPermaLink="false">cfe4a153-f849-4f2f-97d8-78cd9c9dbeb3</guid>
+            <pubDate>Tue, 22 Dec 2015 20:19:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
