@@ -2,12 +2,13 @@ name: Guido Neele
 favicon: null
 layout_spectrum: 0.7484990356024355
 typography_spectrum: 0.285253319889307
+title: Persoonlijk blog van Guido Neele
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-352207-10
   facebook: null
   twitter: null
 opengraph:
